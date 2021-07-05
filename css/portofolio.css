@@ -1,0 +1,14 @@
+.background{
+    background-color: grey;
+    position: relative;
+    width: auto;
+    height: 350px;
+}
+.pict1{
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: 25px;
+    border-radius: 50%;
+}
